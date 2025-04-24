@@ -577,6 +577,6 @@ net.ipv4.tcp_max_tw_buckets = 36000
 还需从应用层面去入手，代码审计，渗透测试，内部人员的审计，管理也很重要；世界上没有完全安全的网络，网络安全必须未雨绸缪，只有不断的去发掘漏洞，完善漏洞，才能让网络更加安全
 :::
 
->本文作者：[许怀安](https://dbsecurity.com.cn/)
+>本文作者：[许怀安](https://infraflow.co/)
 ><br/>创作时间：2022.5.22
 ><br/>版权声明：本博客所有文章除特别声明外，均采用[BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可协议。转载请禀明出处！

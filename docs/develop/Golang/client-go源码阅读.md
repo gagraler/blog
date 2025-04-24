@@ -178,6 +178,6 @@ $GOPATH/src/k8s.io/kubernetes/vendor/k8s.io/code-generator/cmd/lister-gen/genera
 $GOPATH/src/k8s.io/kubernetes/vendor/k8s.io/code-generator/cmd/informer-gen/generators/packages.go:94
 
 
->本文作者：[许怀安](https://dbsecurity.com.cn/)
+>本文作者：[许怀安](https://infraflow.co/)
 ><br/>创作时间：2024-08-18
 ><br/>版权声明：本博客所有文章除特别声明外，均采用[BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可协议。转载请禀明出处！
