@@ -199,18 +199,6 @@ export default defineConfig({
         ]
         },
 
-        {
-          text: 'Netwok Security', items: [
-            {
-              text: '主机安全', items: [
-                {text: 'centos基线加固', link: '/network-security/主机安全/1.centos基线加固'},
-                
-              ],
-            },
-            {text: '浅谈网络安全',link: '/network-security/2.浅谈网络安全'},
-          ]
-          },
-
         // 关于
       {
         text: 'About', items:[
