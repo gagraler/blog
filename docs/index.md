@@ -7,7 +7,7 @@ hero:
   # text: "Blog"
   tagline: 记录自己的工作学习心得，争取当一条有梦想的咸鱼
   image:
-    src: /public/logo.jpg
+    src: /logo.jpg
     alt: logo
     width: 200
     height: 200
