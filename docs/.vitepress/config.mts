@@ -153,7 +153,7 @@ export default defineConfig({
             text: 'Kubernetes', items: [
               {text: 'Kubernetes架构', link: '/cloud-navite/1.Kubernetes/01.Kubernetes架构'},
               {text: 'Kubernetes基于RBAC的认证与授权', link: '/cloud-navite/1.Kubernetes/2.Kubernetes基于RBAC的认证与授权'},
-              {text: 'Kubeadm部署 Kubernetes(v1.27.2)集群', link: '/cloud-navite/1.Kubernetes/3.Kubeadm部署 Kubernetes(v1.27.2)集群'},
+              {text: 'Kubeadm部署 Kubernetes(v1.27.2)集群', link: '/cloud-navite/1.Kubernetes/03.kubeadm 部署 Kubernetes(v1.27.2)集群.md'},
             ]
           },
 
