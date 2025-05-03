@@ -123,6 +123,6 @@ func (p *PaginationHelper) PaginateResources(ctx context.Context, namespace, res
 - [Kubernetes client-go](https://pkg.go.dev/k8s.io/client-go)
 - [Informer 资源获取与分页](https://github.com/kubernetes/client-go/blob/master/tools/cache/shared_informer.go)
 
-**作者**：许怀安  
-**创作时间**：2025-05-03
-**版权声明**：本博客所有文章除特别声明外，均采用 [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议。转载请注明出处。
+>本文作者：[许怀安](https://infraflow.co/)
+><br/>创作时间：2025-05-03
+><br/>版权声明：本博客所有文章除特别声明外，均采用[BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可协议。转载请禀明出处！
