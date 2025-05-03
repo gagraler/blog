@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Kubernetes Compatible Engine: 跨版本集群资源管理的利器
+title: Kubernetes Compatible Engine：跨版本集群资源管理的利器
 date: 2025-05-04 06:44:00
 ---
 # Kubernetes Compatible Engine: 跨版本集群资源管理的利器
