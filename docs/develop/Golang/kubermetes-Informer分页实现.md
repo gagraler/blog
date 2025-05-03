@@ -3,10 +3,9 @@ layout: doc
 title: Kubernetes Informer 分页实现
 date: 2025-05-03 23:34:00
 ---
+# Kubernetes Informer 分页实现
 
 [[toc]]
-
-# Kubernetes Informer 分页实现
 
 在 Kubernetes 中，常常使用 `Informer` 来获取和管理资源。`Informer` 可以帮助订阅资源的变化，并对其进行增量更新。然而，在面对大量资源时，可能需要通过分页来有效地管理和处理这些资源。
 
