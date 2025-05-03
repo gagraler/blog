@@ -26,7 +26,7 @@ const members = [
     title: 'Creator',
     links: [
       { icon: 'github', link: 'https://github.com/infraflows/autoscale-controller' },
-    ]s
+    ]
   },
 
   {
