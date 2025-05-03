@@ -153,17 +153,17 @@ export default defineConfig({
           {
             text: 'Kubernetes', items: [
               {text: 'Kubernetes架构', link: '/cloud-navite/1.Kubernetes/01.Kubernetes架构'},
-              {text: 'Kubernetes基于RBAC的认证与授权', link: '/cloud-navite/1.Kubernetes/02.Kubernetes基于RBAC的认证与授权'},
+              {text: 'Kubernetes基于RBAC的认证与授权', link: '/cloud-navite/1.Kubernetes/02.Kubernets基于RBAC的认证与授权.md'},
               {text: 'Kubeadm部署 Kubernetes(v1.27.2)集群', link: '/cloud-navite/1.Kubernetes/03.kubeadm 部署 Kubernetes(v1.27.2)集群.md'},
-            ]
+            ],
           },
 
           {
             text: 'Istio', items: [
-              {text: 'Istio笔记', link: '/cloud-navite/2.istio/1.istio笔记'},
-              {text: 'Ingress与Egress', link: '/cloud-native/2.istio/2.ingress与egress'},
-              {text: 'Istio Gateway', link: '/cloud-native/2.istio/3.istioGateway'},
-              {text: 'Istio多集群管理', link: '/cloud-native/2.istio/4.istio多集群管理'},
+              {text: 'Istio笔记', link: '/cloud-navite/2.istio/1.istio笔记.md'},
+              {text: 'Ingress与Egress', link: '/cloud-native/2.istio/2.ingress与egress.md'},
+              {text: 'Istio Gateway', link: '/cloud-native/2.istio/3.istioGateway.md'},
+              {text: 'Istio多集群管理', link: '/cloud-native/2.istio/4.istio多集群管理.md'},
             ]
           },
         ],
