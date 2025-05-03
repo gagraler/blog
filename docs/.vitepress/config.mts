@@ -132,15 +132,9 @@ export default defineConfig({
 
           {
             text: 'Golang', items: [
-              {text: 'Kubernetes client-go源码阅读', link: '/develop/Golang/kubernetes-client-go源码阅读.md'},
-              {text: 'Kubernetes Informer分页实现', link: '/develop/Golang/kubermetes-Informer分页实现.md'},
-              {text: 'kubernetes Compatible Engine：跨版本集群资源管理的利器', link: '/develop/Golang/kubernetesCompatibleEngine:跨版本集群资源管理的利器.md'},
-            ]
-          },
-
-          {
-            text: 'Kubernetes 二开', items: [
-              {text: 'operator开发', link: '/pages/52d291/'},
+              {text: 'Kubernetes client-go源码阅读', link: '/develop/Golang/1.kubernetes-client-go源码阅读.md'},
+              {text: 'Kubernetes Informer分页实现', link: '/develop/Golang/2.kubermetes-Informer分页实现.md'},
+              {text: 'kubernetes Compatible Engine：跨版本集群资源管理的利器', link: '/develop/Golang/3.kubernetesCompatibleEngine:跨版本集群资源管理的利器.md'},
             ]
           },
 
