@@ -181,7 +181,7 @@ export default defineConfig({
         text: 'Database', items: [
           {
             text: 'MySQL', items: [
-              {text: '主从同步', link: '/database/1.MySQL/1.主从同步'},
+              {text: '两阶段提交', link: '/database/1.MySQL/1.两阶段提交.md'},
               {text: '查询关键字详解', link: '/database/1.MySQL/2.查询关键字详解'},
             ],
           },

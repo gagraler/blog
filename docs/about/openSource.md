@@ -30,22 +30,12 @@ const members = [
   },
 
   {
-    avatar: 'https://avatars.githubusercontent.com/u/209279007?s=200&v=4',
+    avatar: 'https://avatars.githubusercontent.com/u/112156509?s=200&v=4',
     name: 'loongcollector-operator',
-    desc: 'LoongCollector Operator 是用于管理 LoongCollector 的 Pipeline 配置，它通过监听 Pipeline CRD 的变化，自动将配置应用到 LoongCollector Agent，并轮询Config Server中Agent的采集配置.',
+    desc: 'LoongCollector Operator 用于管理和交付具有 Config-Server 集成的 LoongCollector Pipelines.',
     title: 'Creator',
     links: [
-      { icon: 'github', link: 'https://github.com/infraflows/loongcollector-operator' },
-    ]
-  },
-
-  {
-    avatar: 'https://avatars.githubusercontent.com/u/205871116?s=200&v=4',
-    name: 'Go Viem',
-    desc: 'Go Viem is a Go library for Ethereum JSON-RPC API, inspired by Viem.',
-    title: 'Creator',
-    links: [
-      { icon: 'github', link: 'https://github.com/AutoArbi/go-viem' },
+      { icon: 'github', link: 'https://github.com/iLogtail/loong-operator-contrib' },
     ]
   }
   
